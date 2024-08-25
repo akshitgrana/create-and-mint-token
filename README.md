@@ -1,7 +1,7 @@
-# Nikhilcoin Contract
+# Akshitcoin Contract
 
-This repository contains the Solidity code for the Nikhilcoin smart contract. Nikhilcoin is a basic implementation of a custom token with functionalities for minting, burning, and transferring tokens. The contract follows basic principles similar to ERC20 without strictly adhering to the standard.
-Nikhilcoin is an ERC20 token contract that allows for the creation, transfer, and management of tokens. It is built on the OpenZeppelin library and follows the ERC20 standard.
+This repository contains the Solidity code for the Akshitcoin smart contract. Akshitcoin is a basic implementation of a custom token with functionalities for minting, burning, and transferring tokens. The contract follows basic principles similar to ERC20 without strictly adhering to the standard.
+Akshitcoin is an ERC20 token contract that allows for the creation, transfer, and management of tokens. It is built on the OpenZeppelin library and follows the ERC20 standard.
 
 ## Contract Overview
 
@@ -19,7 +19,7 @@ pragma solidity ^0.8;
 
 ### Contract Details
 
-- **Name**: Nikhilcoin
+- **Name**: Akshitcoin
 - **Symbol**: Customizable upon deployment
 - **Owner**: The deployer of the contract
 - **Total Supply**: Tracks the total supply of the token
